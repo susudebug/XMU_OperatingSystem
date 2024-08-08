@@ -1,0 +1,176 @@
+{
+  "workspaces": {
+    "1": {
+      "main": {
+        "id": "679ce506c4780b4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "c8be842f66cfd99c",
+            "type": "tabs",
+            "dimension": 44.002607561929594,
+            "children": [
+              {
+                "id": "8340c5fb81843904",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "操作系统——精髓与设计原理（第八版） (（美）William Stallings（威廉.斯托林斯）   译者陈向群 陈渝 等) (Z-Library).pdf"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "80edf92cd60a9d36",
+            "type": "tabs",
+            "dimension": 55.997392438070406,
+            "children": [
+              {
+                "id": "ffb4ae1806818f33",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "note.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aef246d978dc601a",
+        "type": "split",
+        "children": [
+          {
+            "id": "7c73f007d6b7f1a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ff939bb2389647cc",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e9b77fea02fe3a64",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "39ebcb99d5697e73",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "f18566b82aa10e5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c67f83ba1387d18",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d695d041a9ea69cc",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "note.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3cda208eb191fbe2",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "note.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b5a65d73f6d2981e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "73d2cb51b93f745b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "note.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "ffb4ae1806818f33",
+      "mtime": "2024-04-25T15:40:50+08:00"
+    }
+  },
+  "active": "1"
+}

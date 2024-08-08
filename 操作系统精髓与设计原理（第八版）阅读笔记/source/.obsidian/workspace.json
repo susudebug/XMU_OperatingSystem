@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "679ce506c4780b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3261155cf59ba728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21214702c5f7b01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aef246d978dc601a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c73f007d6b7f1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff939bb2389647cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9b77fea02fe3a64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39ebcb99d5697e73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d750af1954a5c47",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f18566b82aa10e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c67f83ba1387d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d695d041a9ea69cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cda208eb191fbe2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5a65d73f6d2981e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73d2cb51b93f745b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "ff939bb2389647cc",
+  "lastOpenFiles": [
+    "note.pdf",
+    "脑图/第一章 计算机系统概述.pdf",
+    "note.md",
+    "数据库系统原理_实验7_大实验/邓语苏个人报告.md",
+    "数据库系统原理_实验7_大实验/组长学号_组长名_大实验_实验名/~$小组评分表.doc",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201835.png",
+    "数据库系统原理_实验7_大实验/img/12.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201708.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201654.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201601.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201551.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201539.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201529.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201508.png",
+    "数据库系统原理_实验7_大实验/img/Pasted image 20240629201455.png",
+    "数据库系统原理_实验7_大实验/组长学号_组长名_大实验_实验名/~$个人报告.doc",
+    "数据库系统原理_实验7_大实验/数据库设计报告.md",
+    "数据库系统原理_实验7_大实验/组长学号_组长名_大实验_实验名/~$小组成员信息.docx",
+    "数据库系统原理_实验7_大实验/小组评分表.md",
+    "数据库系统原理_实验7_大实验/组长学号_组长名_大实验_实验名/~$据库设计报告.doc",
+    "数据库系统原理_实验7_大实验/img",
+    "数据库复习.md",
+    "数据库系统原理_实验7_大实验/assets",
+    "数据库真题练习.md",
+    "img",
+    "实验6/DataBase_exp6.md",
+    "实验6/22920212204066-邓语苏-实验六.pdf",
+    "实验6/DataBase_exp6.pdf",
+    "实验四/4~6/实验二 openEuler 操作系统 进程管理实验.md",
+    "实验四/操作系统实验四.md",
+    "实验二/OS_exp2.md",
+    "Pasted.md",
+    "未命名.canvas",
+    "2024-04-24.md"
+  ]
+}
